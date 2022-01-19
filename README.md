@@ -14,8 +14,8 @@
 </span>
 
 <h4> You can checkout my other profiles below: </h4> <br>
-<a href="https://www.linkedin.com/in/parth-jariwala-604aa3214"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"> </a>
-<a href="mailto:parhjariwla12.pj@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"> </a>
+<a href="https://www.linkedin.com/in/parth-jariwala-604aa3214/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"> </a>
+<a href="mailto:parthjariwla12.pj@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"> </a>
 <p> <img src="https://komarev.com/ghpvc/?username=h4r5h1t-007&color=green" alt="counter" /> </p>
 
 </div>
